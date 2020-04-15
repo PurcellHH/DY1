@@ -94,6 +94,9 @@ class Solution {
 ```
 
 **测试用例：**
+
+输入：![image](http://q8o7v0znl.bkt.clouddn.com/121.png)
+
 ```
 //初始化
         Node rootNode = new Node(1);
@@ -106,11 +109,12 @@ class Solution {
         node4.addChild(8);
         node4.addChild(9);
 ```
-![](http://q8o7v0znl.bkt.clouddn.com/121.png)
-输出：![](http://q8o7v0znl.bkt.clouddn.com/123.png)
+输出：![image](http://q8o7v0znl.bkt.clouddn.com/123.png)
 
 
-输入：
+
+输入：![image](http://q8o7v0znl.bkt.clouddn.com/1221.png)
+
 ```
         //初始化
         Node rootNode = new Node(1);
@@ -123,7 +127,7 @@ class Solution {
         Node node8 = node4.addChild(8);
         node8.addChild(9);
 ```
-![](http://q8o7v0znl.bkt.clouddn.com/1221.png)
-输出：
-![](http://q8o7v0znl.bkt.clouddn.com/1222.png)
+输出：![image](http://q8o7v0znl.bkt.clouddn.com/1222.png)
+
+
 
