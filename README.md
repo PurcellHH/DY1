@@ -1,6 +1,6 @@
 1.	实现下列多叉树节点结构与方法，并简单按下图一结构初始化一个多叉树，图中数据为节点值。按照层级遍历的方式遍历该二叉树并输出结果为图二。
-![image](https://github.com/PurcellHH/DY1/blob/master/imgs/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200412082632.png)
-![image](https://github.com/PurcellHH/DY1/blob/master/imgs/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200412082709.png)
+![image](http://q8o7v0znl.bkt.clouddn.com/456.png)
+![image](http://q8o7v0znl.bkt.clouddn.com/789.png)
 
 **代码：**
 
