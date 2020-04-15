@@ -93,3 +93,37 @@ class Solution {
 
 ```
 
+**测试用例：**
+```
+//初始化
+        Node rootNode = new Node(1);
+        Node node2 = rootNode.addChild(2);
+        node2.addChild(5);
+        node2.addChild(6);
+        node2.addChild(7);
+        rootNode.addChild(3);
+        Node node4 = rootNode.addChild(4);
+        node4.addChild(8);
+        node4.addChild(9);
+```
+![](http://q8o7v0znl.bkt.clouddn.com/121.png)
+输出：![](http://q8o7v0znl.bkt.clouddn.com/123.png)
+
+
+输入：
+```
+        //初始化
+        Node rootNode = new Node(1);
+        Node node2 = rootNode.addChild(2);
+        node2.addChild(5);
+        node2.addChild(6);
+        node2.addChild(7);
+        rootNode.addChild(3);
+        Node node4 = rootNode.addChild(4);
+        Node node8 = node4.addChild(8);
+        node8.addChild(9);
+```
+![](http://q8o7v0znl.bkt.clouddn.com/1221.png)
+输出：
+![](http://q8o7v0znl.bkt.clouddn.com/1222.png)
+
